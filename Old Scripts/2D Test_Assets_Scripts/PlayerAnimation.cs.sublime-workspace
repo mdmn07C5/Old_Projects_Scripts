@@ -1,0 +1,397 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"m_jumpHeight"
+			],
+			[
+				"m_",
+				"m_currentSpeed"
+			],
+			[
+				"Player",
+				"PlayerPhysics"
+			],
+			[
+				"m_t",
+				"m_targetSpeed"
+			],
+			[
+				"In",
+				"IncrementTowards"
+			],
+			[
+				"t",
+				"m_targetSpeed"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "PlayerPhysics.cs",
+			"settings":
+			{
+				"buffer_size": 576,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "using System.Collections;\nusing System.Collections.Generic;\nusing UnityEngine;\n\n\n[RequireComponent(typeof(PlayerPhysics))]\npublic class PlayerController : MonoBehaviour\n{''\n\n    // Start is called before the first frame update\n    void Start()\n    {\n\n    }\n\n    // Update is called once per frame\n    void Update()\n    {\n\n    }\n\n\n;lkj\n",
+			"file": "PlayerController.cs",
+			"file_size": 357,
+			"file_write_time": 131931721886840819,
+			"settings":
+			{
+				"buffer_size": 335,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/mathew/.config/sublime-text-3/Local/Session.sublime_session",
+			"settings":
+			{
+				"buffer_size": 14539,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CharacterControllder2DBrackeyes.cs",
+			"settings":
+			{
+				"buffer_size": 4689,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "using UnityEngine;"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 152.851150513,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mathew/Unity/2D Test/Assets/Scripts/PlayerController1.cs",
+		"/home/mathew/.bash_profile",
+		"/home/mathew/bin/scripts/i3listener.py",
+		"/home/mathew/.config/fehlstart/fehlstart.rc",
+		"/home/mathew/.xinitrc",
+		"/home/mathew/Unity/2D Test/Assets/Scripts/PlayerPhysics.cs",
+		"/home/mathew/.config/i3/polybar/config",
+		"/home/mathew/imagine being kilim",
+		"/home/mathew/Programs/AUR/discord/PKGBUILD",
+		"/home/mathew/.config/i3/config",
+		"/home/mathew/Unity/2D Test/Assets/PlayerController.cs",
+		"/home/mathew/.Xresources",
+		"/home/mathew/prg/AoCD1.cpp",
+		"/home/mathew/prg/AoCD1_input.txt",
+		"/home/mathew/hist",
+		"/home/mathew/bin/scripts/displaytitle",
+		"/home/mathew/bin/scripts/i3get",
+		"/home/mathew/bin/scripts/danktext",
+		"/home/mathew/Downloads/nord",
+		"/home/mathew/.zshrc",
+		"/etc/zsh/zprofile",
+		"/home/mathew/bin/scripts/testscript",
+		"/home/mathew/bin/scripts/aasdfasdf",
+		"/home/mathew/.config/i3/polybar/scripts/testscript",
+		"/home/mathew/bin/scripts/autoscript"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"menu",
+			"m_targetSpeed",
+			"pkgver",
+			"MODPRO",
+			"space",
+			"555",
+			"i3-msg",
+			"border",
+			"borner",
+			"bar",
+			"gaps"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"m_maxSpeed"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "PlayerPhysics.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "PlayerController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/mathew/.config/sublime-text-3/Local/Session.sublime_session",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13568,
+								13572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11359.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "CharacterControllder2DBrackeyes.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"auto_name": "using UnityEngine;",
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PlayerAnimation.cs.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
